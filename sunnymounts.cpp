@@ -7,6 +7,7 @@ using namespace std;
 
 using Par = pair<int,int>;
 
+//Problem: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=861
 
 /*
 	The sun shines from the right side of the hills, which are triangles. The strategy below simply takes a right hillside at a time and
