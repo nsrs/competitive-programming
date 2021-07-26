@@ -1,6 +1,3 @@
-
-
-
 #include <cstdio>
 #include <vector>
 #include <queue>
@@ -9,6 +6,7 @@
 
 using namespace std;
 
+//Problem: https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=870
 
 // This and other comment sections with an initial "UPDATE!" sign have been written post-delivery
 
