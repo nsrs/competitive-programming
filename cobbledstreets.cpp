@@ -6,6 +6,9 @@
 using namespace std;
 
 /*
+	Problem:
+		https://www.spoj.com/problems/CSTREET/
+		
 	A simple graph build, followed by Prim's algorithm to find the minimum spanning tree.
 	Time complexity is O(E*log(V))
 */
