@@ -4,6 +4,8 @@
 #include <string>
 #include <vector>
 
+//Problem: https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2261
+
 //The number of courses per student
 static const int C = 5;
 
